@@ -1,0 +1,17 @@
+-Bajar modulo webgl
+-Switchplataform
+-Hacer carpeta fuera del proyecto principal "WEBGL"
+-Crear otra carpeta dentro de gl
+-Ir a github
+- Crear repositorio con readme
+- Crear carpeta github
+- Dentro hacer gitbash
+- git clone URL
+- Pegar archivos d unity en git
+- git add -A
+- git commit -m "Commit Inicial"
+- git push origin main
+- Setttings/Pages/
+- branch main
+
+
